@@ -5,7 +5,7 @@ Style Guide: We need to use [Markdown](https://github.com/adam-p/markdown-here/w
 
 Found [README template here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). This was [a really fun tutorial too](https://www.markdowntutorial.com). Particularly interesting is how he built the site [peep his tech stack](https://github.com/gjtorikian/markdowntutorial.com).
 ![Rachel Chu Plays Mahjong](https://www.worldofbuzz.com/wp-content/uploads/2018/09/further-explaining-the-mahjong-scene-in-crazy-rich-asians-world-of-buzz.jpg)
-# Project Title
+# Mahjong All Night Long
 
 One Paragraph of project description goes here
 
