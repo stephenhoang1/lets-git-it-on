@@ -1,29 +1,11 @@
 # lets-git-it-on
 Lets practice git together by making a little ugly baby using HTML, CSS and Javascript. ANYTHING GOES! All pull requests will be accepted.
 
-Motto: Move fast. MAKE things.
-
 Style Guide: We need to use [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links), developed by one of my favorite writers, [John Gruber.](https://daringfireball.net/).
 
-Ideas:
-  * Mahjong tutorial
-  * How to order food guide
-  * Something Vietnamese (how to address different people by age and social rank?)
-
-Stephen TODO:
-  * Add or ~~strikethrough~~ ideas
-
-Jimmy TODO:
-  * Add How to commit to this Git guide
-  * Add On the importance of good commit messages
-  * Make a Pull request
-
-hello!!!!!
-
-Hello, Part Deux.
-
-Found [README template here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
-# Project Title
+Found [README template here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). This was [a really fun tutorial too](https://www.markdowntutorial.com). Particularly interesting is how he built the site [peep his tech stack](https://github.com/gjtorikian/markdowntutorial.com).
+![Rachel Chu Plays Mahjong](https://www.worldofbuzz.com/wp-content/uploads/2018/09/further-explaining-the-mahjong-scene-in-crazy-rich-asians-world-of-buzz.jpg)
+# Mahjong All Night Long
 
 One Paragraph of project description goes here
 
