@@ -1,7 +1,5 @@
 # lets-git-it-on
 
-![Rachel Chu Plays Mahjong](https://www.worldofbuzz.com/wp-content/uploads/2018/09/further-explaining-the-mahjong-scene-in-crazy-rich-asians-world-of-buzz.jpg)
-
 Lets practice Git together by making a little ugly baby using HTML, CSS and Javascript. ANYTHING GOES! All pull requests will be accepted.
 
 ## Getting Started
