@@ -1,13 +1,8 @@
 # lets-git-it-on
-Lets practice git together by making a little ugly baby using HTML, CSS and Javascript. ANYTHING GOES! All pull requests will be accepted.
 
-Style Guide: We need to use [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links), developed by one of my favorite writers, [John Gruber.](https://daringfireball.net/).
-
-Found [README template here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). This was [a really fun tutorial too](https://www.markdowntutorial.com). Particularly interesting is how he built the site [peep his tech stack](https://github.com/gjtorikian/markdowntutorial.com).
 ![Rachel Chu Plays Mahjong](https://www.worldofbuzz.com/wp-content/uploads/2018/09/further-explaining-the-mahjong-scene-in-crazy-rich-asians-world-of-buzz.jpg)
-# Mahjong All Night Long
 
-One Paragraph of project description goes here
+Lets practice Git together by making a little ugly baby using HTML, CSS and Javascript. ANYTHING GOES! All pull requests will be accepted.
 
 ## Getting Started
 
@@ -63,34 +58,25 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
+## Validate HTML
+[W3C Markup Validation Service](https://validator.w3.org/)
+
+## Validate CSS
+[W3C CSS Validation Service](http://jigsaw.w3.org/css-validator/)
+
 ## Built With
 
 *[MacDown](https://macdown.uranusjr.com/) - A local Markdown editor I used to polish up and copy-edit text files. Nice syntax highlighting and theme.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Stephen Hoang** - *Initial work* - [StephenHoang1](https://github.com/stephenhoang1)
+* **Stephen Hoang** - [Stephen's Github](https://github.com/stephenhoang1)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Jimmy Thong Tran** - [Jimmy's Github](https://github.com/jimmythongtran)
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Hat tip to Bootstrap
+* [John Gruber](https://daringfireball.net/)
+* [README template here](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). This was [a really fun tutorial too](https://www.markdowntutorial.com). Particularly interesting is how he built the site [peep his tech stack](https://github.com/gjtorikian/markdowntutorial.com).
