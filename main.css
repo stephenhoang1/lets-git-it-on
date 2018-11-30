@@ -1,92 +1,49 @@
-/* Adding comment in CSS to know */
-article {
-  background-color: #dfeaf1;
-  border-radius: 4px;
-  color: black;
-  padding: 4px;
-  margin: 10px;
+#navbarNav {
+  display: flex;
+  justify-content: center;
 }
 
-body {
-  padding: 20px 10px;
-  font-family: helvetica;
-  max-width: 2000px;
-  margin: 0 auto; /* The 0 refers to the top and bottom margins and the "auto" automatically */
-  font-size: 1.4em;
-}                 /* sets the left and right margins to equal values. This centers the body on the page.*/
-
-h1 {
-  text-align: center;
-  color: #294860;
+.article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-h2 {
-  margin: 10px;
-  text-align: center;
+#jumbo-img {
+  width: 100%;
 }
 
-header {
-  font-family: 'vollkorn', serif;
-  font-size: 30px;
-  padding: 20px 20px;
+.jumbotron>h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 4rem;
 }
 
-img {
-  display: block;
+.jumbo-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    padding: 10px;
+}
+
+.col-md-6 {
   margin: auto;
+  text-align: center;
 }
 
-nav {
-  background-color: #dfeaf1;
-  font-family: 'vollkorn', serif;
-  padding: 10px;
-  text-align: center;
+#meme {
+  width: 50%;
+  margin: auto;
+  padding: 30px;
+}
+
+#pieces {
+  width: 100%;
+  padding: 30px;
 }
 
 p {
-  margin: 10px 0;
-}
-
-li {
   font-size: 20px;
-  line-height: 44px; /* each line of text should occupy 44 pixels of height (good for mobile usage and fat fingers) */
-}
-
-section {
-  background-color: #294860;
-  border-radius: 20px;
-  color: white;
-  padding: 10px;
-  margin: 10px auto;
-}
-
-ul {
-  list-style-type: none; /* this removes the bullets that show up by default in unordered lists */
-}
-
-.article-title {
-  color: #294860;
-  font-family: 'roboto', sans-serif;
-  font-size: 28px;
-  margin: 8px;
-  text-align: center;
-}
-
-.article-description {
-  font-family: 'open sans', sans-serif;
-  font-weight: lighter;
-  margin: 6px;
-}
-
-.code {
-  color: black;
-  font-family: courier;
-  font-weight: bold;
-  padding: 4px;
-}
-
-.nav-article {
-  font-family: 'roboto', sans-serif;
-  font-size: 28px;
-  padding: 10px;
 }
